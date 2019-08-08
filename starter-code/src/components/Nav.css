@@ -1,0 +1,23 @@
+.Nav {
+  background-color: rgb(98, 188, 240);
+  height: 80px;;
+  font-size: 20px;
+  
+  
+ 
+}
+
+.Nav nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.Nav a {
+  color: white;
+  text-decoration: none;
+  padding-top: 25px;
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 25px;
+}
